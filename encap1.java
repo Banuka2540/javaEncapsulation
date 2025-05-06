@@ -13,9 +13,9 @@ class person{
 }
 public class encap1{
     public static void main(String[] args){
-        person p1 = new person();
-        p1.setName("Yuthila");
-        System.out.println("my name is " + p1.getName());
+        person xy = new person();
+        xy.setName("Yuthila");
+        System.out.println("my name is " + xy.getName());
 
     }
 }

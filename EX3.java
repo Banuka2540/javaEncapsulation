@@ -14,6 +14,6 @@ public class EX3{
         int num = input.nextInt();
 
         looop(num);
-
+        input.close();
     }
 }

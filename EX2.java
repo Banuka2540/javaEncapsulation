@@ -16,6 +16,7 @@ public class EX2{
         int n2 = input.nextInt();
 
         adding(n1,n2);
+        input.close();
     }
 
 }

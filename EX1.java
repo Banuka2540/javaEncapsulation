@@ -12,5 +12,7 @@ public class EX1{
         System.out.println("Enter Your Name : ");
         String name = input.nextLine();
         add(name);
+        
+        input.close();
     }
 }
